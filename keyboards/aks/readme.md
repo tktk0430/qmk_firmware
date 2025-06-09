@@ -1,6 +1,6 @@
-# aks
+# AKs
 
-![aks](imgur.com image replace me!)
+![AKs](imgur.com image replace me!)
 
 _A short description of the keyboard/project_
 
@@ -10,11 +10,11 @@ _A short description of the keyboard/project_
 
 Make example for this keyboard (after setting up your build environment):
 
-    make aks:default
+    make AKs:default
 
 Flashing example for this keyboard:
 
-    make aks:default:flash
+    make AKs:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
